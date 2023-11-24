@@ -15,8 +15,8 @@ pip install opencv-python
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone [https://github.com/your-username/your-repository.git](https://github.com/seyyedmsl82/Face-Smile-Eye-Detector.git)
+cd seyyedmsl82
 ```
 
 2. Download the Haar cascades XML files for face, eye, and smile detection and place them in the project directory. You can find these files in the OpenCV GitHub repository: [haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)

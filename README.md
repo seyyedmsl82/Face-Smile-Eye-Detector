@@ -34,7 +34,3 @@ Feel free to customize the script and integrate it into your projects!
 ## Acknowledgments
 
 - Haar cascades XML files for face, eye, and smile detection are part of the OpenCV project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

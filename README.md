@@ -15,7 +15,7 @@ pip install opencv-python
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/your-repository.git](https://github.com/seyyedmsl82/Face-Smile-Eye-Detector.git)
+git clone https://github.com/your-username/your-repository.git
 cd seyyedmsl82
 ```
 
